@@ -1,0 +1,9 @@
+This project includes code derived from the Go standard library package:
+
+- container/list (Copyright 2009 The Go Authors)
+
+The original code is distributed under a BSD-style license.
+See LICENSE.google for the full license text.
+
+Modifications in this repository adapt that implementation to generic types
+while preserving behavior.
